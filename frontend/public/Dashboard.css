@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.dsh{
+    display: flex;
+    flex-direction: row;
+}
+.left{
+    width: 300px;
+    height: 550px;
+}
+.right{
+    margin-left: 30px;
+    width: 78%;
+}
+.menu p{
+  width: 280px;
+  font-size: 30px;
+  margin-left: 5px;
+  color:black;
+  text-align: center;
+}
+._btn{
+    display: flex;
+    flex-direction: row;
+    width: 280px;
+    cursor: pointer;
+    padding : 5px;
+    margin-left: 10px;
+    font-size: 25px;
+    border-radius: 5px;
+    background-color:blueviolet;
+    color: white;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+._btn:hover{
+    color: white;
+    background-color:blue;
+}
+._btn img{
+    width: 40px;
+    height: 90%;
+}
+._btn div{
+    padding-top: 6px;
+    margin-left: 5px;
+}
+
+.special{
+    background-color:red;
+}

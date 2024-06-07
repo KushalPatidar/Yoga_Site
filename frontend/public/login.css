@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    width: 90vw;
+    margin-left: 5vw;
+    height: 82vh;
+    border-radius: 7px;
+    background: url("./login5.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.main form{
+    padding-left: 7%;
+    padding-top: 17px;
+}
+label{
+    color:gray;
+    font-size: 30px;
+}
+.main input{
+    padding: 15px;
+    font-size: 20px;
+    width: 380px;
+    height: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.main select{
+    padding-left: 15px;
+    font-size: 20px;
+    width: 415px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    color: gray;
+}
+.login_btn{
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    width: 240px;
+    height: 60px;
+    background-color:#ef4917;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+.login_h1{
+    font-size: 47px;
+    padding-top: 5%;
+    padding-left: 7%;
+    color: white;
+}
+.login_h4{
+    color: white;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+.login_navlink{
+    color: blue;
+}

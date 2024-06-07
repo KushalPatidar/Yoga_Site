@@ -1,0 +1,14 @@
+.enrolled-classes{
+    margin-left: 5%;
+    width: 90%;
+    height: 80vh;
+}
+.enrolled-classes h1{
+    text-align: center;
+    padding-top: 20px;
+}
+.en-classes{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

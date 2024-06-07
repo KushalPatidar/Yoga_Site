@@ -1,0 +1,35 @@
+.new-class{
+    margin-top: 50px;
+    width: 440px;
+    min-height: 400px;
+    margin-left: 35%;
+    border: 2px solid black;
+    padding-top: 40px;
+    border-radius: 8px;
+}
+.new-class input{
+    display: block;
+    width: 350px;
+    height: 40px;
+    padding-left: 10px;
+    margin-left: 38px;
+    margin-bottom: 5px;
+}
+.new-class textarea{
+    display: block;
+    width: 350px;
+    height: 40px;
+    padding-left: 10px;
+    margin-top: 1px;
+    margin-left: 38px;
+    padding-left: 7px;
+    padding-top: 7px;
+}
+.new-class button{
+    padding: 9px 50px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 120px;
+    background-color: black;
+    color: white;
+}

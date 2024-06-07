@@ -1,0 +1,44 @@
+.en-class{
+    display: flex;
+    flex-direction: row;
+    margin-right: 30px;
+    width: 500px;
+    margin-top: 30px;
+    transition: transform 2s ease;
+}
+.en-class:hover{
+    transform: scale(1.1);
+    border: none;
+}
+.en-class img{
+    width: 200px;
+    height: 150px;
+    border-radius: 20px 0px 0px 20px;
+}
+.right-box{
+    background-color: rgb(59, 57, 57);
+    padding: 10px;
+    border-radius: 0px 10px 10px 0px;
+}
+.right-box h2{
+    /* margin-top: 10px; */
+    color: gray;
+    font-size: 20px;
+    font-weight: 100;
+}
+.right-box p{
+    font-size: 20px;
+    /* margin-top: 2px;
+    margin-bottom: 1px; */
+    color:rgb(227, 46, 46);
+}
+.right-box button{
+    margin-left: 50px;
+    width: 150px;
+    height: 40px;
+    margin-top: 17px;
+    font-size: 20px;
+    color: white;
+    border: none;
+    background-color:rgb(209, 74, 146);
+}

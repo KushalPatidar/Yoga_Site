@@ -1,0 +1,15 @@
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.top button{
+    width: 400px;
+    height: 40px;
+    background-color:#7692ad;
+    color: antiquewhite;
+    /* color: white; */
+    font-size: 25px;
+}
+.top button:hover{
+}

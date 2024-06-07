@@ -1,0 +1,15 @@
+.a_apply{
+    width: 70%;
+    height: 60vh;
+    margin-left: 12%;
+    margin-top: 10vh;
+    /* background-color: #c8c6ff; */
+}
+.a_apply img{
+    width: 400px;
+    height: 250px;
+    margin-left: 30%;
+}
+.a_apply h1{
+    text-align: center;
+}

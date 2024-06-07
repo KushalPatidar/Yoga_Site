@@ -1,0 +1,30 @@
+.apply2 h6{
+    text-align: center;
+    font-size: 38px;
+    color: cadetblue;
+    margin-top: -30px;
+}
+.apply2{
+    margin-top: 35px;
+    border:2px solid #000000;
+    width: 80%;
+    height: 50vh;
+    margin-left: 10%;
+}
+
+.apply2 img{
+    margin-top: 30px;
+    width: 400px;
+    height: 200px;
+    margin-left: 27%;
+}
+
+.apply2 button{
+    width: 180px;
+    height: 50px;
+    margin-left: 36%;
+    margin-top: 20px;
+    font-size: 25px;
+    color: white;
+    background-color: blueviolet;
+}

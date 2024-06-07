@@ -1,0 +1,25 @@
+.dashB{
+    width: 80%;
+    height: 70vh;
+    margin-left: 10%;
+    margin-top: 35px;
+}
+
+.dashB h1{
+    padding-top:10px ;
+    text-align: center;
+    font-size: 45px;
+    color: cadetblue;
+}
+.dashB p{
+    text-align: center;
+    padding-top: 5px;
+    font-size: 35px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.dashB img{
+    width: 80%;
+    height: 80%;
+    margin-left: 10%;
+    margin-top: 15px;
+}

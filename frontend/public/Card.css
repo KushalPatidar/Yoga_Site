@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.card{
+    margin-top: 20px;
+    width: 270px;
+    border-radius: 14px;
+    transition: background-color 1s ease;
+    background-color: rgb(59, 57, 57);
+    transition: transform 2s ease;
+}
+.card img{
+    width:100%;
+    border-radius: 14px 14px 0px 0px;
+}
+.card:hover{
+    transform: scale(1.1);
+    border: none;
+}
+.card div h2{
+    margin-top: 0px;
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+}
+.card div p{
+    text-align: center;
+    color: gray;
+    font-size: 20px;
+}
+.card button{
+    font-size: 21px;
+    padding: 5px 19px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    color: white;
+    border: none;
+    border-radius: 2px;
+}
+.btn_select{
+    margin-left:16px;
+    border: none;
+    background-color:rgb(209, 74, 146);
+}
+.btn_select1{
+    margin-left:96px;
+    border: none;
+    background-color:rgb(209, 74, 146);
+}
+.btn_add_to_cart{
+    margin-left:16px;
+    background-color: blueviolet;
+}
+.delete-class{
+    width: 150px;
+    margin-left:12px;
+    background-color: brown;
+}
+
+.ins{
+    text-align: center;
+    font-size: 17px;
+    color: brown;
+}
+b{
+    color: green;
+}
